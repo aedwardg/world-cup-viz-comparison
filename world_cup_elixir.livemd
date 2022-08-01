@@ -2,7 +2,7 @@
 
 # World Cup Elixir Viz
 
-## Section
+## Setup
 
 ```elixir
 Mix.install([
@@ -29,6 +29,8 @@ alias VegaLite, as: Vl
 ```
 VegaLite
 ```
+
+## Data Exploration/Vizualization
 
 ```elixir
 matches = DF.from_csv!("WorldCupMatches.csv")
