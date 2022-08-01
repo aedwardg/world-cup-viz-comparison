@@ -1,5 +1,4 @@
 <!-- livebook:{"persist_outputs":true} -->
-<!-- vim: set syntax=markdown: -->
 
 # World Cup Elixir Viz
 
@@ -73,6 +72,13 @@ matches |> DF.table(limit: 10)
 
 ```
 :ok
+```
+
+```elixir
+matches
+|> DF.head(10)
+|> DF.to_columns()
+|> Kino.DataTable.new()
 ```
 
 ```elixir
