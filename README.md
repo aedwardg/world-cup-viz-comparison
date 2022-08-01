@@ -7,3 +7,7 @@ Currently, Livebook notebooks don't have the same level of support for rendering
 However, you can always run the Livebook yourself:
 
 [![Run in Livebook](https://livebook.dev/badge/v1/pink.svg)](https://livebook.dev/run?url=https%3A%2F%2Fgithub.com%2Faedwardg%2Fworld-cup-viz-comparison%2Fblob%2Fmain%2Fworld_cup_elixir.livemd)
+
+You can also run the Jupyter notebook on Google Colab if that's your thing:
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aedwardg/world-cup-viz-comparison/blob/main/world_cup.ipynb)
