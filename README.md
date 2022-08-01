@@ -6,4 +6,4 @@ Currently, Livebook notebooks don't have the same level of support for rendering
 
 However, you can always run the Livebook yourself:
 
-[![Run in Livebook](https://livebook.dev/badge/v1/pink.svg)](https://github.com/aedwardg/world-cup-viz-comparison/blob/main/world_cup.ipynb)
+[![Run in Livebook](https://livebook.dev/badge/v1/pink.svg)](https://github.com/aedwardg/world-cup-viz-comparison/blob/main/world_cup_elixir.livemd)
